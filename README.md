@@ -1,4 +1,4 @@
-# 📄 Simple RAG — Summarize & Q&A
+# 📄 RAG — Summarize & Q&A
 
 A compact, **local-first** document summarization and Q&A tool for business users.  
 Upload multiple documents, build a single knowledge base, generate a short combined summary (5–8 bullets), and ask questions answered **strictly from the uploaded documents**.
